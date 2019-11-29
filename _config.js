@@ -1,8 +1,8 @@
 const Config = {
-    site: "Sporule",
+    site: "Clement's Blog",
     subTitle:"SubTitle",
-    url: "https://www.sporule.com",
-    description: "Sporule is a micro blog site",
+    url: "https://clements.netlify.com",
+    description: "This is my blog",
     keywords: "micro blog",
     logo: "https://i.imgur.com/1UDpSHj.png",
     disqusShortname: "yourdisqusshortname",
